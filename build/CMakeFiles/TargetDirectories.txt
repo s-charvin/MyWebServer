@@ -1,0 +1,8 @@
+E:/mypack/AppPackage/WebServer/MyWebServer/build/CMakeFiles/PACKAGE.dir
+E:/mypack/AppPackage/WebServer/MyWebServer/build/CMakeFiles/ALL_BUILD.dir
+E:/mypack/AppPackage/WebServer/MyWebServer/build/CMakeFiles/ZERO_CHECK.dir
+E:/mypack/AppPackage/WebServer/MyWebServer/build/test/CMakeFiles/MyWebServerTestExecutable.dir
+E:/mypack/AppPackage/WebServer/MyWebServer/build/test/CMakeFiles/PACKAGE.dir
+E:/mypack/AppPackage/WebServer/MyWebServer/build/MyWebServer/CMakeFiles/MyWebServerExecutable.dir
+E:/mypack/AppPackage/WebServer/MyWebServer/build/MyWebServer/CMakeFiles/copy_dlls.dir
+E:/mypack/AppPackage/WebServer/MyWebServer/build/MyWebServer/CMakeFiles/PACKAGE.dir

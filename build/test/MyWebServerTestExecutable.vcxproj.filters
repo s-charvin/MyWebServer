@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\sqlconnpool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\epoller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\webserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\heaptimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\httpconn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\httprequest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\httpresponse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\src\buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mypack\AppPackage\WebServer\MyWebServer\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\mypack\AppPackage\WebServer\MyWebServer\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A5E67C28-9412-3F8B-B87B-360DE5EC2BE9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

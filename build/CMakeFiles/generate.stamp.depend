@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+D:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake
+D:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake
+D:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake
+D:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake
+D:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake
+D:/msys64/mingw64/share/cmake/Modules/CMakeRCInformation.cmake
+D:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake
+D:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake
+D:/msys64/mingw64/share/cmake/Modules/CPack.cmake
+D:/msys64/mingw64/share/cmake/Modules/CPackComponent.cmake
+D:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC-CXX.cmake
+D:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC.cmake
+D:/msys64/mingw64/share/cmake/Modules/InstallRequiredSystemLibraries.cmake
+D:/msys64/mingw64/share/cmake/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/msys64/mingw64/share/cmake/Modules/Platform/Windows-MSVC.cmake
+D:/msys64/mingw64/share/cmake/Modules/Platform/Windows.cmake
+D:/msys64/mingw64/share/cmake/Modules/Platform/WindowsPaths.cmake
+D:/msys64/mingw64/share/cmake/Templates/CPackConfig.cmake.in
+E:/mypack/AppPackage/WebServer/MyWebServer/CMakeLists.txt
+E:/mypack/AppPackage/WebServer/MyWebServer/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake
+E:/mypack/AppPackage/WebServer/MyWebServer/build/CMakeFiles/3.26.3/CMakeRCCompiler.cmake
+E:/mypack/AppPackage/WebServer/MyWebServer/build/CMakeFiles/3.26.3/CMakeSystem.cmake

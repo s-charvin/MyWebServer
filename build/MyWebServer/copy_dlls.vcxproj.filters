@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\mypack\AppPackage\WebServer\MyWebServer\build\CMakeFiles\586edd7cdf9c0aecb2e14abd0e892e50\copy_dlls.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\mypack\AppPackage\WebServer\MyWebServer\MyWebServer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\mypack\AppPackage\WebServer\MyWebServer\build\MyWebServer\CMakeFiles\copy_dlls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{24D1AEAC-F133-3603-A421-307F97F453FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
